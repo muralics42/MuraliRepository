@@ -1,0 +1,10 @@
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\bin\Release\netcoreapp2.0\CoreAPI.deps.json
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\bin\Release\netcoreapp2.0\CoreAPI.runtimeconfig.json
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\bin\Release\netcoreapp2.0\CoreAPI.runtimeconfig.dev.json
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\bin\Release\netcoreapp2.0\CoreAPI.dll
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\bin\Release\netcoreapp2.0\CoreAPI.pdb
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Release\netcoreapp2.0\CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Release\netcoreapp2.0\CoreAPI.AssemblyInfoInputs.cache
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Release\netcoreapp2.0\CoreAPI.AssemblyInfo.cs
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Release\netcoreapp2.0\CoreAPI.dll
+C:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Release\netcoreapp2.0\CoreAPI.pdb

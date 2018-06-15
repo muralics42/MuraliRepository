@@ -1,0 +1,11 @@
+c:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csprojAssemblyReference.cache
+c:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.csproj.CoreCompileInputs.cache
+c:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfoInputs.cache
+c:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.AssemblyInfo.cs
+c:\Users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.dll
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.deps.json
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.json
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.runtimeconfig.dev.json
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.dll
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.0\CoreAPI.pdb
+c:\users\h256704\source\repos\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.0\CoreAPI.pdb

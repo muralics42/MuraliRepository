@@ -1,0 +1,11 @@
+services:
+  coreapi:
+    build:
+      context: c:\Users\h256704\source\repos\CoreAPI
+      dockerfile: CoreAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: coreapi
+    ports:
+    - target: 80
+version: '3.4'
